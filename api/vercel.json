@@ -1,9 +1,0 @@
-{
-    "rewrites": [
-      {
-        "source": "/(.*)",
-        "destination": "/json-server.js"
-      }
-    ]
-  }
-  
